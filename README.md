@@ -48,6 +48,7 @@ Just a theme made from a color palette from a wallpaper.
 
 ## INSTALLATION GUIDE COMING SOON
 ===========================
+
 replace DP-2 with your monitor settings
 replace hdmi-0 with your monitor settings
 

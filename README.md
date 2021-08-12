@@ -29,6 +29,8 @@ Just a theme made from a color palette from a wallpaper.
 
 * picom-ibhagwan-git
 
+* Nerd Fonts Complete Mono
+
 **Other tools I use:**
 
 * Sublime
@@ -50,6 +52,7 @@ Just a theme made from a color palette from a wallpaper.
 ===========================
 
 replace DP-2 with your monitor settings
+
 replace hdmi-0 with your monitor settings
 
 ## Screens:
